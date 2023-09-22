@@ -1,1 +1,1 @@
-# asia-east1
+# europe-west1
